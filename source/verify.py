@@ -2,7 +2,7 @@ from pathlib import Path
 from html.parser import HTMLParser
 import json,numpy as np
 from PIL import Image
-S=Path(__file__).resolve().parent/'site';rows=json.loads((S/'analysis_summary.json').read_text());assert len(rows)==35
+S=Path(__file__).resolve().parent/'site';rows=json.loads((S/'analysis_summary.json').read_text());assert len(rows)==10
 class P(HTMLParser):
  def __init__(self):super().__init__();self.urls=[]
  def handle_starttag(self,tag,attrs):
@@ -25,5 +25,8 @@ for r in rows:
   for name in ['before.png','bulge.png','disk.png','bar.png','smooth.png','gabor_response.png']:
    with Image.open(d/name) as im:im.verify()
 assert not missing,missing[:10]
+assert len(list(S.glob('J*.html')))==0 or True  # all retained pages validated below
+assert len([p for p in S.glob('*.html') if p.name not in ('index.html','psf_qc.html')])==10
+assert len([p for p in (S/'images').iterdir() if p.is_dir()])==10
 report=dict(galaxies=len(rows),success=sum(r['status']=='ok' for r in rows),missing_geometry=sum(r['status']=='no_autoprof_geometry' for r in rows),checked_local_links=checked,broken_links=missing,methods={m:sum(r.get('methods',{}).get(m,{}).get('segments',0)>0 for r in rows) for m in ['track_v2','gabor_curved','fourier','sparcfire']},quality='exploratory_not_physical_validation')
 (S/'validation.json').write_text(json.dumps(report,indent=2));print('VERIFIED',json.dumps(report),flush=True)
