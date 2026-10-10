@@ -1,0 +1,122 @@
+[
+  {
+    "stem": "NGC0300",
+    "catalog_inclination": 45.0,
+    "survey": "dss2",
+    "pixel_scale_arcsec": 8.566666666666666,
+    "detected_psf_like_sources": 18,
+    "empirical_fwhm_px": 4.344098409724259,
+    "empirical_fwhm_arcsec": 37.214443043304485,
+    "mask_fraction": 0.02310943603515625,
+    "status": "candidate_only_not_validated_psf",
+    "note": "Source masks are conservative; central 75-pixel radius excluded. No scientific image pixels modified."
+  },
+  {
+    "stem": "NGC4214",
+    "catalog_inclination": 39.0,
+    "survey": "dss2",
+    "pixel_scale_arcsec": 2.8366666666666664,
+    "detected_psf_like_sources": 19,
+    "empirical_fwhm_px": 4.509911967839618,
+    "empirical_fwhm_arcsec": 12.793116948771715,
+    "mask_fraction": 0.020542144775390625,
+    "status": "candidate_only_not_validated_psf",
+    "note": "Source masks are conservative; central 75-pixel radius excluded. No scientific image pixels modified."
+  },
+  {
+    "stem": "UGCA086",
+    "catalog_inclination": 47.0,
+    "survey": "dss2",
+    "pixel_scale_arcsec": 1.49,
+    "detected_psf_like_sources": 46,
+    "empirical_fwhm_px": 4.389206666515176,
+    "empirical_fwhm_arcsec": 6.5399179331076125,
+    "mask_fraction": 0.05443572998046875,
+    "status": "candidate_only_not_validated_psf",
+    "note": "Source masks are conservative; central 75-pixel radius excluded. No scientific image pixels modified."
+  },
+  {
+    "stem": "ESO383-087",
+    "catalog_inclination": 37.0,
+    "survey": "dss2",
+    "pixel_scale_arcsec": 1.8733333333333333,
+    "detected_psf_like_sources": 77,
+    "empirical_fwhm_px": 4.12513974048746,
+    "empirical_fwhm_arcsec": 7.727761780513174,
+    "mask_fraction": 0.08254241943359375,
+    "status": "candidate_only_not_validated_psf",
+    "note": "Source masks are conservative; central 75-pixel radius excluded. No scientific image pixels modified."
+  },
+  {
+    "stem": "ESO324-024",
+    "catalog_inclination": 44.0,
+    "survey": "dss2",
+    "pixel_scale_arcsec": 1.1033333333333333,
+    "detected_psf_like_sources": 74,
+    "empirical_fwhm_px": 4.311771656903931,
+    "empirical_fwhm_arcsec": 4.757321394784003,
+    "mask_fraction": 0.09114837646484375,
+    "status": "candidate_only_not_validated_psf",
+    "note": "Source masks are conservative; central 75-pixel radius excluded. No scientific image pixels modified."
+  },
+  {
+    "stem": "NGC7793",
+    "catalog_inclination": 48.0,
+    "survey": "dss2",
+    "pixel_scale_arcsec": 4.71,
+    "detected_psf_like_sources": 32,
+    "empirical_fwhm_px": 4.4285732925660435,
+    "empirical_fwhm_arcsec": 20.858580207986066,
+    "mask_fraction": 0.040493011474609375,
+    "status": "candidate_only_not_validated_psf",
+    "note": "Source masks are conservative; central 75-pixel radius excluded. No scientific image pixels modified."
+  },
+  {
+    "stem": "NGC1313",
+    "catalog_inclination": 37.0,
+    "survey": "legacy_dr10",
+    "pixel_scale_arcsec": 5.6655,
+    "detected_psf_like_sources": 193,
+    "empirical_fwhm_px": 2.8880528930871345,
+    "empirical_fwhm_arcsec": 16.36226366578516,
+    "mask_fraction": 0.11923599243164062,
+    "status": "candidate_only_not_validated_psf",
+    "note": "Source masks are conservative; central 75-pixel radius excluded. No scientific image pixels modified."
+  },
+  {
+    "stem": "NGC4449",
+    "catalog_inclination": 45.0,
+    "survey": "legacy_dr10",
+    "pixel_scale_arcsec": 2.253333333333333,
+    "detected_psf_like_sources": 78,
+    "empirical_fwhm_px": 3.6261402648381518,
+    "empirical_fwhm_arcsec": 8.170902730101968,
+    "mask_fraction": 0.0646209716796875,
+    "status": "candidate_only_not_validated_psf",
+    "note": "Source masks are conservative; central 75-pixel radius excluded. No scientific image pixels modified."
+  },
+  {
+    "stem": "IC4182",
+    "catalog_inclination": 23.0,
+    "survey": "legacy_dr10",
+    "pixel_scale_arcsec": 2.2033333333333336,
+    "detected_psf_like_sources": 91,
+    "empirical_fwhm_px": 3.2734296651985,
+    "empirical_fwhm_arcsec": 7.212456695654029,
+    "mask_fraction": 0.07030868530273438,
+    "status": "candidate_only_not_validated_psf",
+    "note": "Source masks are conservative; central 75-pixel radius excluded. No scientific image pixels modified."
+  },
+  {
+    "stem": "NGC5236",
+    "catalog_inclination": 28.0,
+    "survey": "dss2",
+    "pixel_scale_arcsec": 6.206666666666667,
+    "detected_psf_like_sources": 3,
+    "empirical_fwhm_px": null,
+    "empirical_fwhm_arcsec": null,
+    "mask_fraction": 0.004329681396484375,
+    "status": "insufficient_isolated_sources",
+    "note": "Source masks are conservative; central 75-pixel radius excluded. No scientific image pixels modified."
+  }
+]
