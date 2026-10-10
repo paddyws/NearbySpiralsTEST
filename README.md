@@ -24,3 +24,7 @@ An exploratory, clearly quality-flagged presentation of the 35 galaxies in `Near
 Many AutoProf inclination estimates are unstable, foreground stars and star-forming clumps can be mistaken for arms, and original images are not uniformly calibrated. UGCA105 has no reliable AutoProf geometry in the saved analysis. High-inclination objects are unsuitable for precise pitch. M33, NGC300 and NGC7793 have published central black-hole constraints and should not be presented as unconstrained new IMBH candidates. This site is a method test, not a validated black-hole candidate catalog.
 
 The source scripts are preserved separately on the authorized local computer at `E:/Astro/NearbySpiralsTEST_Work`. Raw FITS, original working catalogs, and personal filesystem contents are not published.
+
+## Reproducibility
+The source/ folder includes the actual exploratory analysis and publication scripts. They expect the FITS files and saved AutoProf/legacy products from the user's local Nearby_IMBH workspace; no raw FITS are redistributed. SpArcFiRe additionally uses the separately installed r140 binary. Paths are local-workstation defaults and must be adapted for another machine.
+
