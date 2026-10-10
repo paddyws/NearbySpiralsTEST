@@ -1,0 +1,32 @@
+[
+  {
+    "sigma_px": 1.5,
+    "selected_pixels": 769,
+    "median_local_pitch_deg": 11.749425883180795,
+    "pitch_p10_p90": [
+      1.9859362020179459,
+      32.677734573654035
+    ],
+    "notes": "Local orientation only; no arm identity, not validated physical pitch"
+  },
+  {
+    "sigma_px": 2.5,
+    "selected_pixels": 774,
+    "median_local_pitch_deg": 10.144360836217373,
+    "pitch_p10_p90": [
+      1.959087184022498,
+      30.38327536904078
+    ],
+    "notes": "Local orientation only; no arm identity, not validated physical pitch"
+  },
+  {
+    "sigma_px": 4.0,
+    "selected_pixels": 795,
+    "median_local_pitch_deg": 9.87158892973825,
+    "pitch_p10_p90": [
+      1.9232414856900122,
+      16.111552701398903
+    ],
+    "notes": "Local orientation only; no arm identity, not validated physical pitch"
+  }
+]
