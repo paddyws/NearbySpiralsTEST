@@ -4,7 +4,7 @@ An exploratory, clearly quality-flagged presentation of the 35 galaxies in `Near
 
 ## Inputs
 
-35 512×512 FITS frames, 34 existing color references, saved AutoProf geometry where available, saved Gaia foreground-star masks where available, and saved exploratory Track-V2 and Fourier candidate overlays from BIRTHDAY_GITHUB_STYLE_V6. The sample combines DSS2 and Legacy survey images; flux units, PSFs and calibration are not uniform.
+Selected FITS frames and available color references, saved AutoProf geometry where available, saved Gaia foreground-star masks where available, and saved exploratory Track-V2 and Fourier candidate overlays from BIRTHDAY_GITHUB_STYLE_V6. The sample combines DSS2 and Legacy survey images; flux units, PSFs and calibration are not uniform.
 
 ## Methods
 
@@ -25,6 +25,6 @@ Many AutoProf inclination estimates are unstable, foreground stars and star-form
 
 The source scripts are preserved separately on the authorized local computer at `E:/Astro/NearbySpiralsTEST_Work`. Raw FITS, original working catalogs, and personal filesystem contents are not published.
 
-## Reproducibility
-The source/ folder includes the actual exploratory analysis and publication scripts. They expect the FITS files and saved AutoProf/legacy products from the user's local Nearby_IMBH workspace; no raw FITS are redistributed. SpArcFiRe additionally uses the separately installed r140 binary. Paths are local-workstation defaults and must be adapted for another machine.
+## Inclination selection
+Only galaxies with catalog inclination i <= 50 degrees in Nearby_IMBH/input_manifest.csv are published. 10 of 35 remain. The 25 excluded targets are retained in the private source dataset and analysis backup; they are not published. AutoProf inclinations are shown separately and can exceed 50 degrees for retained objects.
 

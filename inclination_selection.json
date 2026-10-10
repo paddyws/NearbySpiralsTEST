@@ -1,0 +1,48 @@
+{
+  "rule": "catalog inclination i <= 50 degrees",
+  "input_manifest_source": "Nearby_IMBH/input_manifest.csv",
+  "retained": [
+    {
+      "stem": "ESO324-024",
+      "catalog_inclination_deg": 44.0
+    },
+    {
+      "stem": "ESO383-087",
+      "catalog_inclination_deg": 37.0
+    },
+    {
+      "stem": "IC4182",
+      "catalog_inclination_deg": 23.0
+    },
+    {
+      "stem": "NGC0300",
+      "catalog_inclination_deg": 45.0
+    },
+    {
+      "stem": "NGC1313",
+      "catalog_inclination_deg": 37.0
+    },
+    {
+      "stem": "NGC4214",
+      "catalog_inclination_deg": 39.0
+    },
+    {
+      "stem": "NGC4449",
+      "catalog_inclination_deg": 45.0
+    },
+    {
+      "stem": "NGC5236",
+      "catalog_inclination_deg": 28.0
+    },
+    {
+      "stem": "NGC7793",
+      "catalog_inclination_deg": 48.0
+    },
+    {
+      "stem": "UGCA086",
+      "catalog_inclination_deg": 47.0
+    }
+  ],
+  "excluded_count": 25,
+  "note": "The excluded objects remain in the private original analysis workspace. Catalog inclination and AutoProf geometry may differ."
+}
