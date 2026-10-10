@@ -1,0 +1,57 @@
+{
+  "stem": "NGC2403",
+  "geometry": {
+    "q": 0.46056933220551133,
+    "pa": 0.6374752078664546,
+    "cx": 255.9686317697015,
+    "cy": 255.9723603489683,
+    "radius": 110.41228778248721
+  },
+  "has_color": true,
+  "methods": {
+    "track_v2": {
+      "status": "exploratory",
+      "segments": 0,
+      "active_brightness_terms": 0,
+      "residual_sse_reduction_fraction": 0.0,
+      "pitches_deg": [],
+      "source": "no_retained_segments"
+    },
+    "gabor_curved": {
+      "status": "exploratory",
+      "segments": 1,
+      "active_brightness_terms": 1,
+      "residual_sse_reduction_fraction": 0.00704980739134847,
+      "pitches_deg": [
+        71.56
+      ],
+      "source": "curved-Gabor response skeleton; exploratory"
+    },
+    "fourier": {
+      "status": "exploratory",
+      "segments": 4,
+      "active_brightness_terms": 4,
+      "residual_sse_reduction_fraction": 0.0025925358191758916,
+      "pitches_deg": [
+        60.0,
+        60.0,
+        60.0,
+        60.0
+      ],
+      "source": "saved exploratory fourier overlay; not refitted"
+    }
+  },
+  "status": "ok",
+  "star_mask_available": true,
+  "smooth_model": {
+    "status": "approximate_radial_profile_only",
+    "disk_scale_pix": 12.994360698473178,
+    "bulge_scale_pix": 1.0,
+    "fit_cost": 1.852054982898669,
+    "bar_status": "not_fit_no_reliable_bar_decomposition",
+    "PSF": "not_convolved",
+    "photometry": "mixed_uncalibrated_sources"
+  },
+  "quality_flags": [],
+  "elapsed_sec": 1.65
+}
