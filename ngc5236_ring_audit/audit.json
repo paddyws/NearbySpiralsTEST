@@ -1,0 +1,394 @@
+{
+  "galaxy": "NGC5236",
+  "source_survey": "DSS2",
+  "pixel_scale_arcsec": 6.206666666666667,
+  "geometry": {
+    "q": 0.9498189815752545,
+    "pa": 1.3116615540045067,
+    "cx": 253.59049071930207,
+    "cy": 255.09261717639785,
+    "radius": 92.01023981873935
+  },
+  "provisional_model": {
+    "status": "approximate_radial_profile_only",
+    "disk_scale_pix": 49.38745840983318,
+    "bulge_scale_pix": 15.778535041435962,
+    "fit_cost": 44.861040099240675,
+    "bar_status": "not_fit_no_reliable_bar_decomposition",
+    "PSF": "not_convolved",
+    "photometry": "mixed_uncalibrated_sources"
+  },
+  "radial_profile": [
+    {
+      "radius_px": 3,
+      "raw_median": 13070.820598026294,
+      "smooth_median": 13243.760689606504,
+      "residual_median": -219.5044118814103,
+      "highpass_median": 3391.31403227337,
+      "residual_p10": -515.985441768894,
+      "residual_p90": 41.91300371570252
+    },
+    {
+      "radius_px": 5,
+      "raw_median": 12968.893119898574,
+      "smooth_median": 12252.501554273196,
+      "residual_median": 533.4160710950582,
+      "highpass_median": 3442.1497421688073,
+      "residual_p10": 175.09468586273888,
+      "residual_p90": 1053.8635056777503
+    },
+    {
+      "radius_px": 7,
+      "raw_median": 12829.226473024295,
+      "smooth_median": 11318.762415738503,
+      "residual_median": 1379.331626918619,
+      "highpass_median": 3578.986460480005,
+      "residual_p10": 655.0466050143468,
+      "residual_p90": 1902.2470623349946
+    },
+    {
+      "radius_px": 9,
+      "raw_median": 12891.94865177025,
+      "smooth_median": 10401.869886251327,
+      "residual_median": 2393.801917415468,
+      "highpass_median": 3970.564149961977,
+      "residual_p10": 1469.0921371756083,
+      "residual_p90": 2917.048138632831
+    },
+    {
+      "radius_px": 11,
+      "raw_median": 12603.793499919337,
+      "smooth_median": 9676.707217438401,
+      "residual_median": 2881.2848176524785,
+      "highpass_median": 4177.869086697201,
+      "residual_p10": 1678.8696563024257,
+      "residual_p90": 3497.6000127938273
+    },
+    {
+      "radius_px": 13,
+      "raw_median": 11755.061147951077,
+      "smooth_median": 8936.939346991196,
+      "residual_median": 2715.362698837518,
+      "highpass_median": 3704.122805117573,
+      "residual_p10": 977.486274188278,
+      "residual_p90": 3985.439204199414
+    },
+    {
+      "radius_px": 15,
+      "raw_median": 10967.254832970995,
+      "smooth_median": 8227.808144384393,
+      "residual_median": 2666.457937821029,
+      "highpass_median": 3470.0358736765947,
+      "residual_p10": 99.0698083046509,
+      "residual_p90": 4620.28174804054
+    },
+    {
+      "radius_px": 17,
+      "raw_median": 9851.033520389326,
+      "smooth_median": 7551.3602385051745,
+      "residual_median": 2331.7602785102877,
+      "highpass_median": 2946.862512941013,
+      "residual_p10": -496.65111415905204,
+      "residual_p90": 4856.000350158075
+    },
+    {
+      "radius_px": 19,
+      "raw_median": 8919.105445665435,
+      "smooth_median": 6981.620132017126,
+      "residual_median": 2049.396355051716,
+      "highpass_median": 2777.11535798905,
+      "residual_p10": -976.9868642666055,
+      "residual_p90": 3892.621421970244
+    },
+    {
+      "radius_px": 21,
+      "raw_median": 7167.673898030236,
+      "smooth_median": 6421.247873929233,
+      "residual_median": 784.1535797818738,
+      "highpass_median": 1643.0155285046467,
+      "residual_p10": -1227.1991723227775,
+      "residual_p90": 2870.601109952387
+    },
+    {
+      "radius_px": 23,
+      "raw_median": 5275.7277929871925,
+      "smooth_median": 5939.302769798012,
+      "residual_median": -713.0708623052906,
+      "highpass_median": 357.2806077113114,
+      "residual_p10": -2049.2215974528663,
+      "residual_p90": 2684.7200645714856
+    },
+    {
+      "radius_px": 25,
+      "raw_median": 3752.211967074935,
+      "smooth_median": 5504.454803077875,
+      "residual_median": -1753.4819760118376,
+      "highpass_median": -559.9287704159499,
+      "residual_p10": -3092.31584379448,
+      "residual_p90": 1638.684220249066
+    },
+    {
+      "radius_px": 27,
+      "raw_median": 2553.402660670057,
+      "smooth_median": 5044.564464574831,
+      "residual_median": -2547.0069042630034,
+      "highpass_median": -1244.6501402299216,
+      "residual_p10": -3656.8416696257605,
+      "residual_p90": -260.3084597586092
+    },
+    {
+      "radius_px": 29,
+      "raw_median": 1717.5957039894586,
+      "smooth_median": 4659.472455335158,
+      "residual_median": -2900.635463180133,
+      "highpass_median": -1460.9294441480788,
+      "residual_p10": -3767.0122569467026,
+      "residual_p90": -1572.0361331719284
+    },
+    {
+      "radius_px": 31,
+      "raw_median": 1251.7187155129625,
+      "smooth_median": 4286.0547141414245,
+      "residual_median": -3073.392108240556,
+      "highpass_median": -1431.932746177772,
+      "residual_p10": -3603.772473722058,
+      "residual_p90": -1950.8721408000579
+    },
+    {
+      "radius_px": 33,
+      "raw_median": 889.5580727204066,
+      "smooth_median": 3972.8216628854216,
+      "residual_median": -3074.620076861481,
+      "highpass_median": -1352.0766303503842,
+      "residual_p10": -3396.4285444121633,
+      "residual_p90": -2413.3233804104448
+    },
+    {
+      "radius_px": 35,
+      "raw_median": 641.8690115037812,
+      "smooth_median": 3667.673428663779,
+      "residual_median": -3016.067426847966,
+      "highpass_median": -1205.8799037390327,
+      "residual_p10": -3241.6036306330816,
+      "residual_p90": -2629.759247652987
+    },
+    {
+      "radius_px": 37,
+      "raw_median": 522.5037566778342,
+      "smooth_median": 3376.3479398992977,
+      "residual_median": -2867.3130112988683,
+      "highpass_median": -1026.0668560843546,
+      "residual_p10": -3086.8256716930173,
+      "residual_p90": -2513.373435006254
+    },
+    {
+      "radius_px": 39,
+      "raw_median": 371.51789689938664,
+      "smooth_median": 3111.973279660762,
+      "residual_median": -2729.88354470165,
+      "highpass_median": -855.6629438504237,
+      "residual_p10": -2913.7201870735526,
+      "residual_p90": -2392.7598299787933
+    },
+    {
+      "radius_px": 41,
+      "raw_median": 272.7703722307335,
+      "smooth_median": 2868.399431617403,
+      "residual_median": -2582.4988277407483,
+      "highpass_median": -696.20640161349,
+      "residual_p10": -2740.4667014954357,
+      "residual_p90": -2258.942390869673
+    },
+    {
+      "radius_px": 43,
+      "raw_median": 175.36830548575665,
+      "smooth_median": 2639.0825820376913,
+      "residual_median": -2454.466701726571,
+      "highpass_median": -597.2808291283599,
+      "residual_p10": -2611.207228744063,
+      "residual_p90": -2164.937021365403
+    },
+    {
+      "radius_px": 45,
+      "raw_median": 109.58872280824355,
+      "smooth_median": 2436.2037221203855,
+      "residual_median": -2317.6921808058105,
+      "highpass_median": -493.7679863048909,
+      "residual_p10": -2465.3698636278987,
+      "residual_p90": -2079.7422562475995
+    },
+    {
+      "radius_px": 47,
+      "raw_median": 61.094231577805246,
+      "smooth_median": 2248.761606353517,
+      "residual_median": -2189.5785251924585,
+      "highpass_median": -414.43241405288194,
+      "residual_p10": -2329.4196764323538,
+      "residual_p90": -1956.485591196808
+    },
+    {
+      "radius_px": 49,
+      "raw_median": 15.834935286997105,
+      "smooth_median": 2077.2381645232745,
+      "residual_median": -2058.6657266768975,
+      "highpass_median": -359.3912597013069,
+      "residual_p10": -2181.0540493964463,
+      "residual_p90": -1881.623457866194
+    },
+    {
+      "radius_px": 51,
+      "raw_median": 0.054162210344977035,
+      "smooth_median": 1916.3532629683004,
+      "residual_median": -1909.7225856312484,
+      "highpass_median": -293.43982391793685,
+      "residual_p10": -2048.9100960636197,
+      "residual_p90": -1607.157507083498
+    },
+    {
+      "radius_px": 53,
+      "raw_median": -25.304786789343137,
+      "smooth_median": 1762.4492258641476,
+      "residual_median": -1781.3780075018226,
+      "highpass_median": -258.3199239329624,
+      "residual_p10": -1907.8991056249893,
+      "residual_p90": -1589.8202249008273
+    },
+    {
+      "radius_px": 55,
+      "raw_median": -43.39626590912941,
+      "smooth_median": 1624.238939566565,
+      "residual_median": -1665.125007322338,
+      "highpass_median": -228.28445534427922,
+      "residual_p10": -1786.6547417444585,
+      "residual_p90": -1507.0908181410555
+    },
+    {
+      "radius_px": 57,
+      "raw_median": -38.766980860067946,
+      "smooth_median": 1499.0606564192212,
+      "residual_median": -1535.2105587383153,
+      "highpass_median": -189.299286268566,
+      "residual_p10": -1657.117344033036,
+      "residual_p90": -1338.7116939116715
+    },
+    {
+      "radius_px": 59,
+      "raw_median": -44.375899274434026,
+      "smooth_median": 1386.2571280376965,
+      "residual_median": -1425.0682498978563,
+      "highpass_median": -170.6264418155058,
+      "residual_p10": -1547.1866942710383,
+      "residual_p90": -1212.892797733021
+    },
+    {
+      "radius_px": 61,
+      "raw_median": -39.599196534578866,
+      "smooth_median": 1274.9608819521586,
+      "residual_median": -1311.6620027818967,
+      "highpass_median": -144.64619702746694,
+      "residual_p10": -1448.2988306851305,
+      "residual_p90": -906.2717805876301
+    },
+    {
+      "radius_px": 63,
+      "raw_median": -47.61475688460618,
+      "smooth_median": 1175.0717367269774,
+      "residual_median": -1216.940847948601,
+      "highpass_median": -141.00518365398034,
+      "residual_p10": -1338.523206479364,
+      "residual_p90": -982.9985533074492
+    },
+    {
+      "radius_px": 65,
+      "raw_median": -30.288712986681475,
+      "smooth_median": 1082.358001115102,
+      "residual_median": -1112.8512899864459,
+      "highpass_median": -120.19822575501661,
+      "residual_p10": -1244.1352162349597,
+      "residual_p90": -878.8394320722217
+    },
+    {
+      "radius_px": 67,
+      "raw_median": -38.975165041003436,
+      "smooth_median": 999.4492484202508,
+      "residual_median": -1035.277812203771,
+      "highpass_median": -123.08335394284157,
+      "residual_p10": -1156.4211106355772,
+      "residual_p90": -800.5641978732427
+    },
+    {
+      "radius_px": 69,
+      "raw_median": -34.32441698406249,
+      "smooth_median": 923.3737113988268,
+      "residual_median": -955.0085853115146,
+      "highpass_median": -117.22209947597227,
+      "residual_p10": -1081.8040716988742,
+      "residual_p90": -726.8025641166614
+    },
+    {
+      "radius_px": 71,
+      "raw_median": -32.60323108069117,
+      "smooth_median": 852.981877723389,
+      "residual_median": -884.7242390693375,
+      "highpass_median": -117.86669553815858,
+      "residual_p10": -1003.9636827941948,
+      "residual_p90": -608.2025958948943
+    },
+    {
+      "radius_px": 73,
+      "raw_median": -26.842446123795924,
+      "smooth_median": 785.274465256489,
+      "residual_median": -809.7971251184333,
+      "highpass_median": -115.24240934675527,
+      "residual_p10": -927.9925982075114,
+      "residual_p90": -537.3036582658856
+    },
+    {
+      "radius_px": 75,
+      "raw_median": -27.96563621135422,
+      "smooth_median": 724.5548118498989,
+      "residual_median": -750.26643200645,
+      "highpass_median": -110.16839058806272,
+      "residual_p10": -859.3782112252854,
+      "residual_p90": -525.6000320562441
+    },
+    {
+      "radius_px": 77,
+      "raw_median": -13.944923139664079,
+      "smooth_median": 665.7341168011003,
+      "residual_median": -681.5245319141491,
+      "highpass_median": -108.60979157264208,
+      "residual_p10": -807.7095647909806,
+      "residual_p90": -453.59915274623756
+    },
+    {
+      "radius_px": 79,
+      "raw_median": -11.279454862267052,
+      "smooth_median": 616.5045836007628,
+      "residual_median": -624.0879488010007,
+      "highpass_median": -100.02278648232131,
+      "residual_p10": -755.6578171024274,
+      "residual_p90": -382.06017170140507
+    },
+    {
+      "radius_px": 81,
+      "raw_median": -7.454488631394135,
+      "smooth_median": 568.2412592058258,
+      "residual_median": -576.6886197819108,
+      "highpass_median": -100.90796255430175,
+      "residual_p10": -700.0585215857878,
+      "residual_p90": -308.4118531848713
+    },
+    {
+      "radius_px": 83,
+      "raw_median": 3.5214783402539647,
+      "smooth_median": 524.2729455928913,
+      "residual_median": -519.7273973889262,
+      "highpass_median": -95.9739349148174,
+      "residual_p10": -650.5632436024533,
+      "residual_p90": -287.49170259651294
+    }
+  ],
+  "interpretation": "This ablation compares input-dependent ring-like enhancement. It does not establish a physical stellar ring or calibrated PSF.",
+  "source_preserved": true
+}
