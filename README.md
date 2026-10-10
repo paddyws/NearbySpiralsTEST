@@ -11,6 +11,7 @@ An exploratory, clearly quality-flagged presentation of the 35 galaxies in `Near
 - Track-V2: earlier candidate log-spiral traces reused as saved. No new Track-V2 detection run is claimed.
 - Curved Gabor: structure-tensor direction field and local curved sampling to enhance ridges in the provisional smooth-subtracted image. Skeleton-connected fragments propose tracks; these are **not** validated physical arms, and disconnected branches can be misinterpreted.
 - Fourier: saved exploratory Fourier components reused as saved. No multi-peak/multi-mode reanalysis is claimed.
+- SpArcFiRe: genuine installed compiled r140 engine, single-turn configuration, run on AutoProf-deprojected image frames. Arcs are screened for valid pitch and extent. The engine may detect stellar clumps or spurious structure; these are exploratory, not confirmed arms.
 - Bulge and disk: a new robust two-component **radial-median approximation**, exponential disk and fixed-index n=2 bulge-like profile, not GALFIT, not PSF-convolved, not a calibrated mass decomposition. Bar was **not fitted** and its panel is zero. No B/T should be inferred.
 - Arm light: one nonnegative 2.5-native-pixel Gaussian ribbon per candidate path fitted to the original component-subtracted pixel values. This is in-sample and can overfit. No physical interpretation is assigned to amplitudes.
 

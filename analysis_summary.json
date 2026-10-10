@@ -37,6 +37,14 @@
           17.0
         ],
         "source": "saved exploratory fourier overlay; not refitted"
+      },
+      "sparcfire": {
+        "status": "engine_OK",
+        "segments": 0,
+        "active_brightness_terms": 0,
+        "pitches_deg": [],
+        "residual_sse_reduction_fraction": 0.0,
+        "source": "genuine SpArcFiRe r140 single-turn; existing AutoProf geometry"
       }
     },
     "status": "ok",
@@ -93,6 +101,14 @@
           60.0
         ],
         "source": "saved exploratory fourier overlay; not refitted"
+      },
+      "sparcfire": {
+        "status": "engine_OK",
+        "segments": 0,
+        "active_brightness_terms": 0,
+        "pitches_deg": [],
+        "residual_sse_reduction_fraction": 0.0,
+        "source": "genuine SpArcFiRe r140 single-turn; existing AutoProf geometry"
       }
     },
     "status": "ok",
@@ -153,6 +169,18 @@
           57.5
         ],
         "source": "saved exploratory fourier overlay; not refitted"
+      },
+      "sparcfire": {
+        "status": "engine_OK",
+        "segments": 3,
+        "active_brightness_terms": 2,
+        "pitches_deg": [
+          35.72,
+          54.17,
+          42.86
+        ],
+        "residual_sse_reduction_fraction": 4.4161641740856574e-05,
+        "source": "genuine SpArcFiRe r140 single-turn; existing AutoProf geometry"
       }
     },
     "status": "ok",
@@ -213,6 +241,16 @@
           60.0
         ],
         "source": "saved exploratory fourier overlay; not refitted"
+      },
+      "sparcfire": {
+        "status": "engine_OK",
+        "segments": 1,
+        "active_brightness_terms": 0,
+        "pitches_deg": [
+          40.33
+        ],
+        "residual_sse_reduction_fraction": 0.0,
+        "source": "genuine SpArcFiRe r140 single-turn; existing AutoProf geometry"
       }
     },
     "status": "ok",
@@ -273,6 +311,16 @@
           31.5
         ],
         "source": "saved exploratory fourier overlay; not refitted"
+      },
+      "sparcfire": {
+        "status": "engine_OK",
+        "segments": 1,
+        "active_brightness_terms": 1,
+        "pitches_deg": [
+          32.04
+        ],
+        "residual_sse_reduction_fraction": 0.00013232603034157855,
+        "source": "genuine SpArcFiRe r140 single-turn; existing AutoProf geometry"
       }
     },
     "status": "ok",
@@ -333,6 +381,16 @@
           60.0
         ],
         "source": "saved exploratory fourier overlay; not refitted"
+      },
+      "sparcfire": {
+        "status": "engine_OK",
+        "segments": 1,
+        "active_brightness_terms": 0,
+        "pitches_deg": [
+          4.2
+        ],
+        "residual_sse_reduction_fraction": 0.0,
+        "source": "genuine SpArcFiRe r140 single-turn; existing AutoProf geometry"
       }
     },
     "status": "ok",
@@ -391,6 +449,16 @@
           56.0
         ],
         "source": "saved exploratory fourier overlay; not refitted"
+      },
+      "sparcfire": {
+        "status": "engine_OK",
+        "segments": 1,
+        "active_brightness_terms": 1,
+        "pitches_deg": [
+          39.91
+        ],
+        "residual_sse_reduction_fraction": 9.333193513617796e-05,
+        "source": "genuine SpArcFiRe r140 single-turn; existing AutoProf geometry"
       }
     },
     "status": "ok",
@@ -450,6 +518,16 @@
           60.0
         ],
         "source": "saved exploratory fourier overlay; not refitted"
+      },
+      "sparcfire": {
+        "status": "engine_OK",
+        "segments": 1,
+        "active_brightness_terms": 1,
+        "pitches_deg": [
+          3.18
+        ],
+        "residual_sse_reduction_fraction": 8.034455351381696e-07,
+        "source": "genuine SpArcFiRe r140 single-turn; existing AutoProf geometry"
       }
     },
     "status": "ok",
@@ -520,6 +598,14 @@
           60.0
         ],
         "source": "saved exploratory fourier overlay; not refitted"
+      },
+      "sparcfire": {
+        "status": "engine_OK",
+        "segments": 0,
+        "active_brightness_terms": 0,
+        "pitches_deg": [],
+        "residual_sse_reduction_fraction": 0.0,
+        "source": "genuine SpArcFiRe r140 single-turn; existing AutoProf geometry"
       }
     },
     "status": "ok",
@@ -573,6 +659,16 @@
           17.0
         ],
         "source": "saved exploratory fourier overlay; not refitted"
+      },
+      "sparcfire": {
+        "status": "engine_OK",
+        "segments": 1,
+        "active_brightness_terms": 1,
+        "pitches_deg": [
+          6.53
+        ],
+        "residual_sse_reduction_fraction": 8.064761780854052e-05,
+        "source": "genuine SpArcFiRe r140 single-turn; existing AutoProf geometry"
       }
     },
     "status": "ok",
@@ -631,6 +727,14 @@
           55.5
         ],
         "source": "saved exploratory fourier overlay; not refitted"
+      },
+      "sparcfire": {
+        "status": "engine_OK",
+        "segments": 0,
+        "active_brightness_terms": 0,
+        "pitches_deg": [],
+        "residual_sse_reduction_fraction": 0.0,
+        "source": "genuine SpArcFiRe r140 single-turn; existing AutoProf geometry"
       }
     },
     "status": "ok",
@@ -690,6 +794,14 @@
           60.0
         ],
         "source": "saved exploratory fourier overlay; not refitted"
+      },
+      "sparcfire": {
+        "status": "engine_OK",
+        "segments": 0,
+        "active_brightness_terms": 0,
+        "pitches_deg": [],
+        "residual_sse_reduction_fraction": 0.0,
+        "source": "genuine SpArcFiRe r140 single-turn; existing AutoProf geometry"
       }
     },
     "status": "ok",
@@ -753,6 +865,14 @@
           22.0
         ],
         "source": "saved exploratory fourier overlay; not refitted"
+      },
+      "sparcfire": {
+        "status": "engine_OK",
+        "segments": 0,
+        "active_brightness_terms": 0,
+        "pitches_deg": [],
+        "residual_sse_reduction_fraction": 0.0,
+        "source": "genuine SpArcFiRe r140 single-turn; existing AutoProf geometry"
       }
     },
     "status": "ok",
@@ -809,6 +929,14 @@
           60.0
         ],
         "source": "saved exploratory fourier overlay; not refitted"
+      },
+      "sparcfire": {
+        "status": "engine_OK",
+        "segments": 0,
+        "active_brightness_terms": 0,
+        "pitches_deg": [],
+        "residual_sse_reduction_fraction": 0.0,
+        "source": "genuine SpArcFiRe r140 single-turn; existing AutoProf geometry"
       }
     },
     "status": "ok",
@@ -870,6 +998,17 @@
           60.0
         ],
         "source": "saved exploratory fourier overlay; not refitted"
+      },
+      "sparcfire": {
+        "status": "engine_OK",
+        "segments": 2,
+        "active_brightness_terms": 1,
+        "pitches_deg": [
+          7.67,
+          11.62
+        ],
+        "residual_sse_reduction_fraction": 4.970154619167253e-06,
+        "source": "genuine SpArcFiRe r140 single-turn; existing AutoProf geometry"
       }
     },
     "status": "ok",
@@ -925,6 +1064,16 @@
           55.0
         ],
         "source": "saved exploratory fourier overlay; not refitted"
+      },
+      "sparcfire": {
+        "status": "engine_OK",
+        "segments": 1,
+        "active_brightness_terms": 1,
+        "pitches_deg": [
+          9.59
+        ],
+        "residual_sse_reduction_fraction": 0.008123400189038095,
+        "source": "genuine SpArcFiRe r140 single-turn; existing AutoProf geometry"
       }
     },
     "status": "ok",
@@ -986,6 +1135,18 @@
           60.0
         ],
         "source": "saved exploratory fourier overlay; not refitted"
+      },
+      "sparcfire": {
+        "status": "engine_OK",
+        "segments": 3,
+        "active_brightness_terms": 3,
+        "pitches_deg": [
+          33.63,
+          15.04,
+          42.07
+        ],
+        "residual_sse_reduction_fraction": 0.007930128313545377,
+        "source": "genuine SpArcFiRe r140 single-turn; existing AutoProf geometry"
       }
     },
     "status": "ok",
@@ -1045,6 +1206,17 @@
           60.0
         ],
         "source": "saved exploratory fourier overlay; not refitted"
+      },
+      "sparcfire": {
+        "status": "engine_OK",
+        "segments": 2,
+        "active_brightness_terms": 1,
+        "pitches_deg": [
+          5.02,
+          31.27
+        ],
+        "residual_sse_reduction_fraction": 0.0009386402235785381,
+        "source": "genuine SpArcFiRe r140 single-turn; existing AutoProf geometry"
       }
     },
     "status": "ok",
@@ -1102,6 +1274,14 @@
           60.0
         ],
         "source": "saved exploratory fourier overlay; not refitted"
+      },
+      "sparcfire": {
+        "status": "engine_OK",
+        "segments": 0,
+        "active_brightness_terms": 0,
+        "pitches_deg": [],
+        "residual_sse_reduction_fraction": 0.0,
+        "source": "genuine SpArcFiRe r140 single-turn; existing AutoProf geometry"
       }
     },
     "status": "ok",
@@ -1156,6 +1336,16 @@
           31.5
         ],
         "source": "saved exploratory fourier overlay; not refitted"
+      },
+      "sparcfire": {
+        "status": "engine_OK",
+        "segments": 1,
+        "active_brightness_terms": 0,
+        "pitches_deg": [
+          5.64
+        ],
+        "residual_sse_reduction_fraction": 0.0,
+        "source": "genuine SpArcFiRe r140 single-turn; existing AutoProf geometry"
       }
     },
     "status": "ok",
@@ -1214,6 +1404,14 @@
           59.0
         ],
         "source": "saved exploratory fourier overlay; not refitted"
+      },
+      "sparcfire": {
+        "status": "engine_OK",
+        "segments": 0,
+        "active_brightness_terms": 0,
+        "pitches_deg": [],
+        "residual_sse_reduction_fraction": 0.0,
+        "source": "genuine SpArcFiRe r140 single-turn; existing AutoProf geometry"
       }
     },
     "status": "ok",
@@ -1278,6 +1476,14 @@
           40.5
         ],
         "source": "saved exploratory fourier overlay; not refitted"
+      },
+      "sparcfire": {
+        "status": "engine_OK",
+        "segments": 0,
+        "active_brightness_terms": 0,
+        "pitches_deg": [],
+        "residual_sse_reduction_fraction": 0.0,
+        "source": "genuine SpArcFiRe r140 single-turn; existing AutoProf geometry"
       }
     },
     "status": "ok",
@@ -1336,6 +1542,18 @@
           60.0
         ],
         "source": "saved exploratory fourier overlay; not refitted"
+      },
+      "sparcfire": {
+        "status": "engine_OK",
+        "segments": 3,
+        "active_brightness_terms": 3,
+        "pitches_deg": [
+          6.96,
+          50.44,
+          18.44
+        ],
+        "residual_sse_reduction_fraction": 0.0773193468301182,
+        "source": "genuine SpArcFiRe r140 single-turn; existing AutoProf geometry"
       }
     },
     "status": "ok",
@@ -1399,6 +1617,16 @@
           60.0
         ],
         "source": "saved exploratory fourier overlay; not refitted"
+      },
+      "sparcfire": {
+        "status": "engine_OK",
+        "segments": 1,
+        "active_brightness_terms": 0,
+        "pitches_deg": [
+          5.28
+        ],
+        "residual_sse_reduction_fraction": 0.0,
+        "source": "genuine SpArcFiRe r140 single-turn; existing AutoProf geometry"
       }
     },
     "status": "ok",
@@ -1460,6 +1688,16 @@
           56.0
         ],
         "source": "saved exploratory fourier overlay; not refitted"
+      },
+      "sparcfire": {
+        "status": "engine_OK",
+        "segments": 1,
+        "active_brightness_terms": 1,
+        "pitches_deg": [
+          3.92
+        ],
+        "residual_sse_reduction_fraction": 8.496393577437348e-05,
+        "source": "genuine SpArcFiRe r140 single-turn; existing AutoProf geometry"
       }
     },
     "status": "ok",
@@ -1523,6 +1761,14 @@
           13.0
         ],
         "source": "saved exploratory fourier overlay; not refitted"
+      },
+      "sparcfire": {
+        "status": "engine_OK",
+        "segments": 0,
+        "active_brightness_terms": 0,
+        "pitches_deg": [],
+        "residual_sse_reduction_fraction": 0.0,
+        "source": "genuine SpArcFiRe r140 single-turn; existing AutoProf geometry"
       }
     },
     "status": "ok",
@@ -1580,6 +1826,14 @@
           60.0
         ],
         "source": "saved exploratory fourier overlay; not refitted"
+      },
+      "sparcfire": {
+        "status": "engine_OK",
+        "segments": 0,
+        "active_brightness_terms": 0,
+        "pitches_deg": [],
+        "residual_sse_reduction_fraction": 0.0,
+        "source": "genuine SpArcFiRe r140 single-turn; existing AutoProf geometry"
       }
     },
     "status": "ok",
@@ -1636,6 +1890,16 @@
           33.5
         ],
         "source": "saved exploratory fourier overlay; not refitted"
+      },
+      "sparcfire": {
+        "status": "engine_OK",
+        "segments": 1,
+        "active_brightness_terms": 0,
+        "pitches_deg": [
+          10.99
+        ],
+        "residual_sse_reduction_fraction": 0.0,
+        "source": "genuine SpArcFiRe r140 single-turn; existing AutoProf geometry"
       }
     },
     "status": "ok",
@@ -1697,6 +1961,14 @@
           60.0
         ],
         "source": "saved exploratory fourier overlay; not refitted"
+      },
+      "sparcfire": {
+        "status": "engine_OK",
+        "segments": 0,
+        "active_brightness_terms": 0,
+        "pitches_deg": [],
+        "residual_sse_reduction_fraction": 0.0,
+        "source": "genuine SpArcFiRe r140 single-turn; existing AutoProf geometry"
       }
     },
     "status": "ok",
@@ -1756,6 +2028,14 @@
           20.5
         ],
         "source": "saved exploratory fourier overlay; not refitted"
+      },
+      "sparcfire": {
+        "status": "engine_OK",
+        "segments": 0,
+        "active_brightness_terms": 0,
+        "pitches_deg": [],
+        "residual_sse_reduction_fraction": 0.0,
+        "source": "genuine SpArcFiRe r140 single-turn; existing AutoProf geometry"
       }
     },
     "status": "ok",
@@ -1818,6 +2098,17 @@
           60.0
         ],
         "source": "saved exploratory fourier overlay; not refitted"
+      },
+      "sparcfire": {
+        "status": "engine_OK",
+        "segments": 2,
+        "active_brightness_terms": 2,
+        "pitches_deg": [
+          36.55,
+          33.31
+        ],
+        "residual_sse_reduction_fraction": 0.045674013602501486,
+        "source": "genuine SpArcFiRe r140 single-turn; existing AutoProf geometry"
       }
     },
     "status": "ok",
@@ -1873,6 +2164,14 @@
           60.0
         ],
         "source": "saved exploratory fourier overlay; not refitted"
+      },
+      "sparcfire": {
+        "status": "engine_OK",
+        "segments": 0,
+        "active_brightness_terms": 0,
+        "pitches_deg": [],
+        "residual_sse_reduction_fraction": 0.0,
+        "source": "genuine SpArcFiRe r140 single-turn; existing AutoProf geometry"
       }
     },
     "status": "ok",
@@ -1939,6 +2238,14 @@
           54.0
         ],
         "source": "saved exploratory fourier overlay; not refitted"
+      },
+      "sparcfire": {
+        "status": "engine_OK",
+        "segments": 0,
+        "active_brightness_terms": 0,
+        "pitches_deg": [],
+        "residual_sse_reduction_fraction": 0.0,
+        "source": "genuine SpArcFiRe r140 single-turn; existing AutoProf geometry"
       }
     },
     "status": "ok",

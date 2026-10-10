@@ -1,0 +1,14 @@
+{
+  "galaxies": 35,
+  "success": 33,
+  "missing_geometry": 1,
+  "checked_local_links": 633,
+  "broken_links": [],
+  "methods": {
+    "track_v2": 13,
+    "gabor_curved": 23,
+    "fourier": 33,
+    "sparcfire": 17
+  },
+  "quality": "exploratory_not_physical_validation"
+}

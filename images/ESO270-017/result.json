@@ -40,6 +40,18 @@
         57.5
       ],
       "source": "saved exploratory fourier overlay; not refitted"
+    },
+    "sparcfire": {
+      "status": "engine_OK",
+      "segments": 3,
+      "active_brightness_terms": 2,
+      "pitches_deg": [
+        35.72,
+        54.17,
+        42.86
+      ],
+      "residual_sse_reduction_fraction": 4.4161641740856574e-05,
+      "source": "genuine SpArcFiRe r140 single-turn; existing AutoProf geometry"
     }
   },
   "status": "ok",
